@@ -45,7 +45,7 @@ https://jsonplaceholder.typicode.com
   Mở postman -> get -> nhập URl : https://jsonplaceholder.typicode.com/posts/1 -> send 
   
   ![Ảnh chụp màn hình 2025-06-19 163704](https://github.com/user-attachments/assets/e4627425-a5be-4df0-be31-27a859e7f014)
-#BƯỚC 3: THÊM BÀI VIẾT MỚI (POST)
+# BƯỚC 3: THÊM BÀI VIẾT MỚI (POST)
   POST-> vào tab body-> chọn raw -> json -> bấm send để xem kết quả
   ```
 {
