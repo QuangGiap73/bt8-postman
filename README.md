@@ -19,7 +19,24 @@
 
 https://jsonplaceholder.typicode.com
 
-# Bước 1: LẤY DANH SÁCH BÀI VIẾT
+# Bước 1: LẤY DANH SÁCH BÀI VIẾT (GET)
   Mở postman -> get -> nhập URl : https://jsonplaceholder.typicode.com/posts -> send 
 
   kết quả : Trả về danh sách bài viết 
+![Ảnh chụp màn hình 2025-06-19 163704](https://github.com/user-attachments/assets/e4627425-a5be-4df0-be31-27a859e7f014)
+
+# Bước 2: Lấy chi tiết một bài viết (GET)
+  Mở postman -> get -> nhập URl : https://jsonplaceholder.typicode.com/posts/1 -> send 
+  ![Ảnh chụp màn hình 2025-06-19 163704](https://github.com/user-attachments/assets/e4627425-a5be-4df0-be31-27a859e7f014)
+# Bước 3: Thêm bài viết mới (POST)
+  POST-> vào tab body-> chọn raw -> json
+  ```
+{
+  "title": "Bài viết mới",
+  "body": "Nội dung bài viết",
+  "userId": 1
+    }
+```
+  
+  
+
