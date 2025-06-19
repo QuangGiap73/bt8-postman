@@ -1,5 +1,5 @@
 ## Tên dự án : Test Collection of APIs
-## Ngày kiểm tra : 16/06/2025
+## Ngày kiểm tra : 19/06/2025
 ## Người kiểm tra : Võ Quang Giáp
 🧰 Giới thiệu về Postman
 Postman là một công cụ phổ biến và mạnh mẽ giúp lập trình viên kiểm thử API (Application Programming Interface) một cách trực quan và dễ dàng. Đây là công cụ gần như không thể thiếu trong quy trình phát triển phần mềm hiện đại, đặc biệt là với các ứng dụng web, mobile, và hệ thống sử dụng kiến trúc client-server.
